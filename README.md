@@ -153,7 +153,7 @@ Cluster-Matrix/
 **1. Clone the repository**
 
 ```bash
-git clone https://github.com/arishakhn/Cluster-Matrix.git
+git clone https://github.com/Arishakhn-06/Cluster-Matrix.git
 cd Cluster-Matrix
 ```
 
